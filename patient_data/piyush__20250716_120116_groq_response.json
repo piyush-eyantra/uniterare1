@@ -1,0 +1,164 @@
+{
+  "patient_details": {
+    "name": "Piyush",
+    "age": 30,
+    "gender": "male",
+    "symptoms": "Hematuria, Proteinuria, Edema, High blood pressure, Flank pain, Lower back pain, Fatigue, Changes in urine color, Uremia, Nausea, Vomiting, Loss of appetite",
+    "duration": "3 years",
+    "family_history": "No",
+    "medications": "yes, headache, loss of appetite",
+    "previous_diagnoses": "no",
+    "travel": "no",
+    "allergies": "no",
+    "other_conditions": "no"
+  },
+  "top_rare_diseases": [
+    {
+      "disease_name": "Alport Syndrome",
+      "score": 0.85,
+      "description": "A rare genetic disorder characterized by kidney disease, hearing loss, and eye abnormalities.",
+      "overview": "Alport Syndrome is a rare genetic disorder that affects the type IV collagen in the body, leading to kidney disease, hearing loss, and eye abnormalities.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Hearing loss",
+        "Eye abnormalities"
+      ],
+      "clinical_significance": "Alport Syndrome can lead to end-stage renal disease, hearing loss, and vision problems if left untreated.",
+      "causes": "Genetic mutations in the COL4A3, COL4A4, or COL4A5 genes.",
+      "related_disorders": [
+        "Goodpasture's syndrome",
+        "Thin basement membrane nephropathy"
+      ],
+      "diagnosis": "Genetic testing, kidney biopsy, hearing tests, and eye exams.",
+      "treatment": "Medications to manage symptoms, dialysis, and kidney transplantation.",
+      "clinical_trials": [
+        "NCT02438615",
+        "NCT03177413"
+      ],
+      "key_aspects": [
+        "Genetic counseling",
+        "Regular monitoring of kidney function and hearing"
+      ]
+    },
+    {
+      "disease_name": "Focal Segmental Glomerulosclerosis (FSGS)",
+      "score": 0.78,
+      "description": "A rare kidney disease characterized by scarring of the glomeruli.",
+      "overview": "FSGS is a rare kidney disease that affects the glomeruli, leading to kidney damage and scarring.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Hematuria"
+      ],
+      "clinical_significance": "FSGS can lead to end-stage renal disease if left untreated.",
+      "causes": "Genetic mutations, infections, and certain medications.",
+      "related_disorders": [
+        "Minimal change disease",
+        "Membranous nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, urine tests, and blood work.",
+      "treatment": "Medications to manage symptoms, dialysis, and kidney transplantation.",
+      "clinical_trials": [
+        "NCT02477421",
+        "NCT03149510"
+      ],
+      "key_aspects": [
+        "Regular monitoring of kidney function",
+        "Lifestyle modifications to manage symptoms"
+      ]
+    },
+    {
+      "disease_name": "IgA Nephropathy",
+      "score": 0.72,
+      "description": "A rare kidney disease characterized by deposits of IgA antibodies in the glomeruli.",
+      "overview": "IgA Nephropathy is a rare kidney disease that affects the glomeruli, leading to kidney damage and scarring.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue"
+      ],
+      "clinical_significance": "IgA Nephropathy can lead to end-stage renal disease if left untreated.",
+      "causes": "Deposits of IgA antibodies in the glomeruli.",
+      "related_disorders": [
+        "Goodpasture's syndrome",
+        "Purpura nephritis"
+      ],
+      "diagnosis": "Kidney biopsy, urine tests, and blood work.",
+      "treatment": "Medications to manage symptoms, dialysis, and kidney transplantation.",
+      "clinical_trials": [
+        "NCT02498847",
+        "NCT03131911"
+      ],
+      "key_aspects": [
+        "Regular monitoring of kidney function",
+        "Lifestyle modifications to manage symptoms"
+      ]
+    },
+    {
+      "disease_name": "Membranoproliferative Glomerulonephritis (MPGN)",
+      "score": 0.65,
+      "description": "A rare kidney disease characterized by changes in the glomeruli.",
+      "overview": "MPGN is a rare kidney disease that affects the glomeruli, leading to kidney damage and scarring.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Hematuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue"
+      ],
+      "clinical_significance": "MPGN can lead to end-stage renal disease if left untreated.",
+      "causes": "Genetic mutations, infections, and certain medications.",
+      "related_disorders": [
+        "FSGS",
+        "IgA Nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, urine tests, and blood work.",
+      "treatment": "Medications to manage symptoms, dialysis, and kidney transplantation.",
+      "clinical_trials": [
+        "NCT02498847",
+        "NCT03131911"
+      ],
+      "key_aspects": [
+        "Regular monitoring of kidney function",
+        "Lifestyle modifications to manage symptoms"
+      ]
+    },
+    {
+      "disease_name": "Crescentic Glomerulonephritis",
+      "score": 0.58,
+      "description": "A rare kidney disease characterized by inflammation of the glomeruli.",
+      "overview": "Crescentic Glomerulonephritis is a rare kidney disease that affects the glomeruli, leading to kidney damage and scarring.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue"
+      ],
+      "clinical_significance": "Crescentic Glomerulonephritis can lead to end-stage renal disease if left untreated.",
+      "causes": "Genetic mutations, infections, and certain medications.",
+      "related_disorders": [
+        "FSGS",
+        "IgA Nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, urine tests, and blood work.",
+      "treatment": "Medications to manage symptoms, dialysis, and kidney transplantation.",
+      "clinical_trials": [
+        "NCT02477421",
+        "NCT03149510"
+      ],
+      "key_aspects": [
+        "Regular monitoring of kidney function",
+        "Lifestyle modifications to manage symptoms"
+      ]
+    }
+  ]
+}

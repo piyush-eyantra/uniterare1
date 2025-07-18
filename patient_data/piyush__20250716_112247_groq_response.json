@@ -1,0 +1,140 @@
+{
+  "patient_details": {
+    "name": "piyush",
+    "age": 30,
+    "gender": "male",
+    "symptoms": "Hematuria, Proteinuria, Edema, High blood pressure, Flank pain, Lower back pain, Fatigue, Changes in urine color, Uremia, Nausea, Vomiting, Loss of appetite",
+    "duration": "4 years",
+    "family_history": "No",
+    "medications": "yes, headache, loss of appetite",
+    "previous_diagnoses": "no",
+    "travel": "no",
+    "allergies": "yes",
+    "other_conditions": "no"
+  },
+  "top_rare_diseases": [
+    {
+      "disease_name": "Alport Syndrome",
+      "score": 0.85,
+      "overview": "A rare genetic disorder characterized by kidney disease, hearing loss, and eye abnormalities.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Hearing loss",
+        "Eye abnormalities"
+      ],
+      "causes": "Genetic mutations in the COL4A3, COL4A4, or COL4A5 genes",
+      "similar_disorders": [
+        "IgA nephropathy",
+        "Membranous nephropathy",
+        "Focal segmental glomerulosclerosis"
+      ],
+      "diagnosis": "Genetic testing, kidney biopsy, hearing tests, and eye exams",
+      "treatment": "Angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and kidney transplantation",
+      "clinical_trials": [
+        "NCT01275616",
+        "NCT03198658"
+      ]
+    },
+    {
+      "disease_name": "Focal Segmental Glomerulosclerosis (FSGS)",
+      "score": 0.78,
+      "overview": "A rare kidney disease characterized by scarring of the glomeruli.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Hematuria"
+      ],
+      "causes": "Genetic mutations, infections, and immune system disorders",
+      "similar_disorders": [
+        "Minimal change disease",
+        "Membranous nephropathy",
+        "IgA nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, genetic testing, and blood tests",
+      "treatment": "Angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and immunosuppressive therapy",
+      "clinical_trials": [
+        "NCT01261401",
+        "NCT03169522"
+      ]
+    },
+    {
+      "disease_name": "Membranous Nephropathy",
+      "score": 0.72,
+      "overview": "A rare kidney disease characterized by thickening of the glomerular basement membrane.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Hematuria"
+      ],
+      "causes": "Autoimmune disorders, infections, and genetic mutations",
+      "similar_disorders": [
+        "Focal segmental glomerulosclerosis",
+        "Minimal change disease",
+        "IgA nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, blood tests, and imaging studies",
+      "treatment": "Angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and immunosuppressive therapy",
+      "clinical_trials": [
+        "NCT01479042",
+        "NCT03194363"
+      ]
+    },
+    {
+      "disease_name": "IgA Nephropathy",
+      "score": 0.65,
+      "overview": "A rare kidney disease characterized by the deposition of IgA antibodies in the glomeruli.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue"
+      ],
+      "causes": "Autoimmune disorders, genetic mutations, and infections",
+      "similar_disorders": [
+        "Focal segmental glomerulosclerosis",
+        "Membranous nephropathy",
+        "Minimal change disease"
+      ],
+      "diagnosis": "Kidney biopsy, blood tests, and imaging studies",
+      "treatment": "Angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, and immunosuppressive therapy",
+      "clinical_trials": [
+        "NCT01630613",
+        "NCT03170131"
+      ]
+    },
+    {
+      "disease_name": "Crescentic Glomerulonephritis",
+      "score": 0.58,
+      "overview": "A rare kidney disease characterized by the formation of crescents in the glomeruli.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Rapidly progressive kidney failure"
+      ],
+      "causes": "Autoimmune disorders, infections, and genetic mutations",
+      "similar_disorders": [
+        "IgA nephropathy",
+        "Focal segmental glomerulosclerosis",
+        "Membranous nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, blood tests, and imaging studies",
+      "treatment": "Immunosuppressive therapy, angiotensin-converting enzyme inhibitors, and angiotensin receptor blockers",
+      "clinical_trials": [
+        "NCT01983789",
+        "NCT03156824"
+      ]
+    }
+  ]
+}

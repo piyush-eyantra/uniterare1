@@ -1,0 +1,203 @@
+{
+  "patient_details": {
+    "name": "piyush",
+    "age": 30,
+    "gender": "male",
+    "symptoms": [
+      "Hematuria",
+      "Proteinuria",
+      "Edema",
+      "High blood pressure",
+      "Flank pain",
+      "Lower back pain",
+      "Fatigue",
+      "Changes in urine color",
+      "Uremia",
+      "Nausea",
+      "Vomiting",
+      "Loss of appetite"
+    ],
+    "duration": "2 years",
+    "family_history": "No",
+    "medications": "yes for some diseases like headache, joint pain",
+    "previous_diagnoses": "no",
+    "travel": "no",
+    "allergies": "no",
+    "other_conditions": "no"
+  },
+  "top_rare_diseases": [
+    {
+      "disease_name": "Atypical Hemolytic Uremic Syndrome (aHUS)",
+      "score": 0.92,
+      "description": "A rare, life-threatening disease that forms blood clots in small blood vessels throughout the body, leading to kidney failure.",
+      "overview": "aHUS is characterized by microangiopathic hemolytic anemia, acute kidney injury, and thrombocytopenia.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Changes in urine color",
+        "Uremia",
+        "Nausea",
+        "Vomiting"
+      ],
+      "clinical_significance": "If untreated, aHUS can lead to end-stage renal disease and mortality.",
+      "causes": "Genetic mutations (e.g., CFH, CD46, CFI), complement pathway dysregulation.",
+      "related_disorders": [
+        "Thrombotic Thrombocytopenic Purpura (TTP)",
+        "Hemolytic Uremic Syndrome (HUS)",
+        "Membranoproliferative Glomerulonephritis (MPGN)"
+      ],
+      "diagnosis": "Laboratory tests for hemolysis, renal function, ADAMTS13 activity, and genetic testing.",
+      "treatment": "Eculizumab, plasma exchange, supportive care.",
+      "clinical_trials": [
+        "Investigation of Ravulizumab for adult aHUS",
+        "Phase 2 study of Zilucoplan in aHUS"
+      ],
+      "key_aspects": [
+        "Complement pathway dysregulation",
+        "High mortality without treatment",
+        "Chronic kidney disease progression"
+      ]
+    },
+    {
+      "disease_name": "Membranoproliferative Glomerulonephritis (MPGN)",
+      "score": 0.85,
+      "description": "A rare kidney disease characterized by deposits in the glomeruli, leading to inflammation and kidney damage.",
+      "overview": "MPGN affects the glomeruli, causing proteinuria and hematuria, often progressing to chronic kidney disease.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Fatigue",
+        "Changes in urine color"
+      ],
+      "clinical_significance": "Can lead to end-stage renal disease if untreated.",
+      "causes": "Infections, autoimmune diseases, genetic factors, chronic diseases.",
+      "related_disorders": [
+        "Lupus Nephritis",
+        "Chronic Hepatitis B or C",
+        "Cryoglobulinemia",
+        "SLE-associated nephritis"
+      ],
+      "diagnosis": "Kidney biopsy, urinalysis, blood tests for infections or autoimmune markers.",
+      "treatment": "Immunosuppressants, antivirals, ACE inhibitors.",
+      "clinical_trials": [
+        "Study of Rituximab in MPGN",
+        "Investigation of new biologics for MPGN"
+      ],
+      "key_aspects": [
+        "Glomerular deposition of immune complexes",
+        "Progressive kidney damage",
+        "Variable etiology"
+      ]
+    },
+    {
+      "disease_name": "Alport Syndrome",
+      "score": 0.78,
+      "description": "A genetic disorder affecting the type IV collagen in the kidneys, leading to chronic kidney disease.",
+      "overview": "Characterized by hematuria, hearing loss, and eye abnormalities, progressing to kidney failure.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Changes in urine color"
+      ],
+      "clinical_significance": "Progressive kidney disease often leading to end-stage renal disease.",
+      "causes": "Mutations in COL4A3, COL4A4, or COL4A5 genes.",
+      "related_disorders": [
+        "Thin Basement Membrane Nephropathy",
+        "Focal Segmental Glomerulosclerosis (FSGS)",
+        "Other collagen-related disorders"
+      ],
+      "diagnosis": "Family history, audiology tests, genetic testing, kidney biopsy.",
+      "treatment": "ACE inhibitors, dietary modifications, transplantation.",
+      "clinical_trials": [
+        "Study of anti-fibrotic agents in Alport",
+        "Gene therapy trials for Alport"
+      ],
+      "key_aspects": [
+        "Genetic mutation in type IV collagen",
+        "Progressive kidney failure",
+        "Sensorineural hearing loss association"
+      ]
+    },
+    {
+      "disease_name": "Goodpasture's Syndrome",
+      "score": 0.75,
+      "description": "An autoimmune disease attacking the lungs and kidneys, leading to bleeding and kidney inflammation.",
+      "overview": "Characterized by anti-GBM antibodies causing glomerulonephritis and pulmonary hemorrhage.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Coughing up blood",
+        "Fatigue"
+      ],
+      "clinical_significance": "Rapid progression to kidney failure and severe lung issues.",
+      "causes": "Autoantibodies against glomerular and alveolar basement membranes.",
+      "related_disorders": [
+        "Anti-GBM Disease",
+        "Wegener's Granulomatosis",
+        "Pulmonary Vasculitis"
+      ],
+      "diagnosis": "Anti-GBM antibody tests, chest X-ray, urine analysis.",
+      "treatment": "Plasmapheresis, immunosuppressants, supportive care.",
+      "clinical_trials": [
+        "Investigation of new immunosuppressive regimens",
+        "Plasmapheresis techniques improvement"
+      ],
+      "key_aspects": [
+        "Autoantibody-mediated damage",
+        "Rapid kidney and lung involvement",
+        "Aggressive treatment required"
+      ]
+    },
+    {
+      "disease_name": "Fabry Disease",
+      "score": 0.7,
+      "description": "A rare genetic disorder causing the buildup of a particular type of fat in the body's cells.",
+      "overview": "Leads to pain, kidney failure, heart issues, and nervous system involvement.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Fatigue",
+        "Changes in urine color",
+        "Nausea",
+        "Vomiting",
+        "Gastrointestinal issues"
+      ],
+      "clinical_significance": "Progressive organ damage, especially kidneys, heart, and nerves.",
+      "causes": "Deficiency of alpha-Gal A enzyme due to GLA gene mutation.",
+      "related_disorders": [
+        "Gaucher Disease",
+        "Niemann-Pick Disease",
+        "Other lysosomal storage diseases"
+      ],
+      "diagnosis": "Enzyme activity assay, genetic testing, clinical evaluation.",
+      "treatment": "Enzyme Replacement Therapy (ERT), supportive care.",
+      "clinical_trials": [
+        "Study of pharmacological chaperones",
+        "Gene therapy for Fabry Disease"
+      ],
+      "key_aspects": [
+        "Lysosomal storage disorder",
+        "Multi-system involvement",
+        "Symptoms in early age but can present later"
+      ]
+    }
+  ]
+}

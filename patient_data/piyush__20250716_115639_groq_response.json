@@ -1,0 +1,169 @@
+{
+  "patient_details": {
+    "name": "piyush",
+    "age": 30,
+    "gender": "Male",
+    "symptoms": "Hematuria, Proteinuria, Edema, High blood pressure, Flank pain, Lower back pain, Fatigue, Changes in urine color, Uremia, Nausea, Vomiting, Loss of appetite",
+    "duration": "5 years",
+    "family_history": "No",
+    "medications": "yes for headache, loss of appetite",
+    "previous_diagnoses": "no",
+    "travel": "no",
+    "allergies": "yes, body rashes",
+    "other_conditions": "no"
+  },
+  "top_rare_diseases": [
+    {
+      "disease_name": "Alport Syndrome",
+      "score": 0.85,
+      "long_description": "Alport Syndrome is a rare genetic disorder characterized by kidney disease, hearing loss, and eye abnormalities.",
+      "overview": "Alport Syndrome is a rare genetic disorder that affects the type IV collagen in the body, leading to kidney disease, hearing loss, and eye abnormalities.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Hearing loss",
+        "Eye abnormalities"
+      ],
+      "clinical_significance": "Alport Syndrome can lead to end-stage renal disease, hearing loss, and vision impairment if left untreated.",
+      "causes": "Genetic mutations in the COL4A3, COL4A4, or COL4A5 genes",
+      "related_disorders": [
+        "Goodpasture's syndrome",
+        "Thin basement membrane disease"
+      ],
+      "diagnosis": "Genetic testing, kidney biopsy, hearing tests, and eye exams",
+      "treatment": "Angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARBs), and kidney transplantation",
+      "clinical_trials": [
+        "NCT01222015",
+        "NCT03198670"
+      ],
+      "key_aspects": [
+        "Genetic testing",
+        "Family planning",
+        "Renal replacement therapy"
+      ]
+    },
+    {
+      "disease_name": "Focal Segmental Glomerulosclerosis (FSGS)",
+      "score": 0.78,
+      "long_description": "FSGS is a rare kidney disease characterized by scarring of the glomeruli, leading to proteinuria and kidney failure.",
+      "overview": "FSGS is a rare kidney disease that affects the glomeruli, leading to proteinuria and kidney failure.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Hematuria"
+      ],
+      "clinical_significance": "FSGS can lead to end-stage renal disease if left untreated.",
+      "causes": "Genetic mutations, infections, and immune system disorders",
+      "related_disorders": [
+        "Minimal change disease",
+        "Membranous nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, blood tests, and urine tests",
+      "treatment": "Corticosteroids, immunosuppressants, and kidney transplantation",
+      "clinical_trials": [
+        "NCT01220009",
+        "NCT03165423"
+      ],
+      "key_aspects": [
+        "Kidney biopsy",
+        "Proteinuria management",
+        "Renal replacement therapy"
+      ]
+    },
+    {
+      "disease_name": "Membranoproliferative Glomerulonephritis (MPGN)",
+      "score": 0.72,
+      "long_description": "MPGN is a rare kidney disease characterized by inflammation and scarring of the glomeruli, leading to proteinuria and kidney failure.",
+      "overview": "MPGN is a rare kidney disease that affects the glomeruli, leading to proteinuria and kidney failure.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Hematuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue"
+      ],
+      "clinical_significance": "MPGN can lead to end-stage renal disease if left untreated.",
+      "causes": "Infections, immune system disorders, and genetic mutations",
+      "related_disorders": [
+        "FSGS",
+        "IgA nephropathy"
+      ],
+      "diagnosis": "Kidney biopsy, blood tests, and urine tests",
+      "treatment": "Corticosteroids, immunosuppressants, and kidney transplantation",
+      "clinical_trials": [
+        "NCT01445919",
+        "NCT03114844"
+      ],
+      "key_aspects": [
+        "Kidney biopsy",
+        "Proteinuria management",
+        "Renal replacement therapy"
+      ]
+    },
+    {
+      "disease_name": "IgA Nephropathy",
+      "score": 0.65,
+      "long_description": "IgA Nephropathy is a rare kidney disease characterized by inflammation of the glomeruli, leading to proteinuria and kidney failure.",
+      "overview": "IgA Nephropathy is a rare kidney disease that affects the glomeruli, leading to proteinuria and kidney failure.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue"
+      ],
+      "clinical_significance": "IgA Nephropathy can lead to end-stage renal disease if left untreated.",
+      "causes": "Immune system disorders and genetic mutations",
+      "related_disorders": [
+        "MPGN",
+        "FSGS"
+      ],
+      "diagnosis": "Kidney biopsy, blood tests, and urine tests",
+      "treatment": "Corticosteroids, immunosuppressants, and kidney transplantation",
+      "clinical_trials": [
+        "NCT01212430",
+        "NCT03122023"
+      ],
+      "key_aspects": [
+        "Kidney biopsy",
+        "Proteinuria management",
+        "Renal replacement therapy"
+      ]
+    },
+    {
+      "disease_name": "C3 Glomerulopathy",
+      "score": 0.58,
+      "long_description": "C3 Glomerulopathy is a rare kidney disease characterized by inflammation and scarring of the glomeruli, leading to proteinuria and kidney failure.",
+      "overview": "C3 Glomerulopathy is a rare kidney disease that affects the glomeruli, leading to proteinuria and kidney failure.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Hematuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue"
+      ],
+      "clinical_significance": "C3 Glomerulopathy can lead to end-stage renal disease if left untreated.",
+      "causes": "Genetic mutations and immune system disorders",
+      "related_disorders": [
+        "MPGN",
+        "FSGS"
+      ],
+      "diagnosis": "Kidney biopsy, blood tests, and urine tests",
+      "treatment": "Corticosteroids, immunosuppressants, and kidney transplantation",
+      "clinical_trials": [
+        "NCT01446819",
+        "NCT03114857"
+      ],
+      "key_aspects": [
+        "Kidney biopsy",
+        "Proteinuria management",
+        "Renal replacement therapy"
+      ]
+    }
+  ]
+}

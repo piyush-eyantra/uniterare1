@@ -1,0 +1,13 @@
+{
+  "name": "piyush ",
+  "age": 30,
+  "gender": "male",
+  "symptoms": "Hematuria, Proteinuria, Edema, High blood pressure, Flank pain, Lower back pain, Fatigue, Changes in urine color, Uremia, Nausea, Vomiting, Loss of appetite",
+  "duration": "2 years ",
+  "family_history": "No",
+  "medications": "yes for some diseases like headache , joint pain ",
+  "previous_diagnoses": "no ",
+  "travel": "no ",
+  "allergies": "no ",
+  "other_conditions": "no "
+}

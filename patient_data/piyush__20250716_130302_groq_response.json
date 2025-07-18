@@ -1,0 +1,200 @@
+{
+  "patient_details": {
+    "name": "piyush",
+    "age": 30,
+    "gender": "Male",
+    "symptoms": "Hematuria, Proteinuria, Edema, High blood pressure, Flank pain, Lower back pain, Fatigue, Changes in urine color, Uremia, Nausea, Vomiting, Loss of appetite",
+    "duration": "2 years",
+    "family_history": "No",
+    "medications": "No",
+    "previous_diagnoses": "no",
+    "travel": "yes, India, Dubai",
+    "allergies": "no",
+    "other_conditions": "no"
+  },
+  "top_rare_diseases": [
+    {
+      "disease_name": "Nephrotic Syndrome",
+      "score": 0.92,
+      "description": "A kidney disorder characterized by excessive excretion of protein in the urine, leading to complications such as edema and high blood pressure.",
+      "overview": "Nephrotic syndrome is a collection of symptoms due to kidney damage. This includes proteinuria, hypoalbuminemia, and edema.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Hematuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Changes in urine color",
+        "Loss of appetite",
+        "Nausea",
+        "Vomiting"
+      ],
+      "clinical_significance": "Nephrotic syndrome is a significant condition that can progress to chronic kidney disease and end-stage renal disease if left untreated.",
+      "causes": "Glomerular diseases (e.g., minimal change disease, focal segmental glomerulosclerosis), infections, drugs, systemic diseases (e.g., lupus)",
+      "related_disorders": [
+        "Nephritic Syndrome",
+        "Chronic Kidney Disease",
+        "Lupus Nephritis",
+        "Membranous Nephropathy"
+      ],
+      "diagnosis": "Urine tests (proteinuria, hematuria), blood tests (serum albumin, cholesterol), kidney biopsy",
+      "treatment": "ACE inhibitors, ARBs, corticosteroids, immunosuppressants, diuretics, dietary modifications",
+      "clinical_trials": [
+        "Trial of Spironolactone in Nephrotic Syndrome (ClinicalTrials.gov)",
+        "Efficacy of Rituximab in Steroid-Resistant Nephrotic Syndrome (ClinicalTrials.gov)"
+      ],
+      "key_aspects": [
+        "Excessive proteinuria",
+        "Edema and hypoalbuminemia",
+        "Associated with various glomerular and systemic diseases",
+        "Requires immunosuppressive therapy in steroid-resistant cases"
+      ]
+    },
+    {
+      "disease_name": "IgA Nephropathy",
+      "score": 0.89,
+      "description": "A kidney disease characterized by the deposition of IgA antibodies in the glomeruli, leading to inflammation and kidney damage.",
+      "overview": "IgA Nephropathy, also known as Berger's disease, is the most common cause of kidney disease worldwide and can progress to chronic kidney disease.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Flank pain",
+        "Lower back pain",
+        "High blood pressure",
+        "Edema",
+        "Changes in urine color"
+      ],
+      "clinical_significance": "IgA Nephropathy can lead to end-stage renal disease in some patients, requiring dialysis or kidney transplantation.",
+      "causes": "Deposition of IgA antibodies in the kidneys, genetic predisposition, infections, mucosal infections",
+      "related_disorders": [
+        "Henoch-Sch\u00f6nlein Purpura",
+        "Chronic Kidney Disease",
+        "Lupus Nephritis",
+        "Focal Segmental Glomerulosclerosis"
+      ],
+      "diagnosis": "Urine tests (blood and protein in urine), blood tests (IgA levels), kidney biopsy",
+      "treatment": "ACE inhibitors, ARBs, corticosteroids, immunosuppressants, tonsillectomy in some cases",
+      "clinical_trials": [
+        "Trial of Omega-3 Fatty Acids in IgA Nephropathy (ClinicalTrials.gov)",
+        "Efficacy of Rituximab in IgA Nephropathy (ClinicalTrials.gov)"
+      ],
+      "key_aspects": [
+        " deposition of IgA in glomeruli",
+        "Often presents with hematuria following upper respiratory infections",
+        "Variable prognosis, with some progressing to ESRD",
+        "Treatments focus on reducing proteinuria and inflammation"
+      ]
+    },
+    {
+      "disease_name": "Alport Syndrome",
+      "score": 0.85,
+      "description": "A genetic disorder characterized by glomerulonephritis, end-stage kidney disease, and hearing loss.",
+      "overview": "Alport Syndrome is a hereditary disease caused by mutations in type IV collagen genes, leading to progressive kidney disease and hearing loss.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Flank pain",
+        "Lower back pain",
+        "High blood pressure",
+        "Edema",
+        "Changes in urine color",
+        "Hearing loss",
+        "Vision abnormalities"
+      ],
+      "clinical_significance": "Alport Syndrome is a progressive disease that often leads to end-stage renal disease and hearing loss.",
+      "causes": "Genetic mutations in COL4A3, COL4A4, COL4A5 genes",
+      "related_disorders": [
+        "Chronic Kidney Disease",
+        "Lupus Nephritis",
+        "Goodpasture Syndrome",
+        "Hereditary Nephritis"
+      ],
+      "diagnosis": "Family history, urine tests, blood tests, genetic testing, kidney biopsy",
+      "treatment": "ACE inhibitors, ARBs, management of chronic kidney disease, dialysis, kidney transplantation",
+      "clinical_trials": [
+        "Trial of Anti-TGF-\u03b2 Therapy in Alport Syndrome (ClinicalTrials.gov)",
+        "Efficacy of ACE Inhibitors in Slowing Progression (ClinicalTrials.gov)"
+      ],
+      "key_aspects": [
+        "Genetic disorder with family history",
+        "Associated with hearing loss and eye abnormalities",
+        "Progressive kidney disease leading to ESRD",
+        "No specific cure, management focuses on slowing progression"
+      ]
+    },
+    {
+      "disease_name": "Membranous Nephropathy",
+      "score": 0.83,
+      "description": "A kidney disease characterized by the thickening of the glomerular basement membrane, leading to proteinuria and kidney damage.",
+      "overview": "Membranous Nephropathy is an immune-mediated disease that can be primary (idiopathic) or secondary to other conditions.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Hematuria",
+        "Edema",
+        "High blood pressure",
+        "Changes in urine color",
+        "Fatigue",
+        "Nausea",
+        "Vomiting"
+      ],
+      "clinical_significance": "Membranous Nephropathy can progress to chronic kidney disease and end-stage renal disease if untreated.",
+      "causes": "Autoimmune causes (antibodies to PLA2R), secondary to infections, drugs, systemic diseases (e.g., lupus)",
+      "related_disorders": [
+        "Nephrotic Syndrome",
+        "Lupus Nephritis",
+        "Chronic Kidney Disease",
+        "Focal Segmental Glomerulosclerosis"
+      ],
+      "diagnosis": "Urine tests (proteinuria), blood tests (antibodies), kidney biopsy",
+      "treatment": "ACE inhibitors, ARBs, corticosteroids, immunosuppressants, Rituximab, dietary modifications",
+      "clinical_trials": [
+        "Trial of Rituximab in Membranous Nephropathy (ClinicalTrials.gov)",
+        "Efficacy of Anti-PLA2R Antibodies Therapy (ClinicalTrials.gov)"
+      ],
+      "key_aspects": [
+        "Primary or secondary causes",
+        "Presence of antibodies to PLA2R in idiopathic cases",
+        "Variable response to immunosuppressive therapy",
+        "Relapses are common after initial treatment"
+      ]
+    },
+    {
+      "disease_name": "Lupus Nephritis",
+      "score": 0.81,
+      "description": "A complication of systemic lupus erythematosus (SLE) affecting the kidneys and leading to inflammation and damage.",
+      "overview": "Lupus Nephritis is a common and serious complication of SLE, leading to kidney inflammation and potential organ failure.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Hematuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Changes in urine color",
+        "Fatigue",
+        "Nausea",
+        "Vomiting"
+      ],
+      "clinical_significance": "Lupus Nephritis is a major predictor of poor outcomes in SLE patients, necessitating prompt treatment.",
+      "causes": "Autoimmune response, immune complex deposition in kidneys",
+      "related_disorders": [
+        "Systemic Lupus Erythematosus (SLE)",
+        "Chronic Kidney Disease",
+        "Nephrotic Syndrome",
+        "IgA Nephropathy"
+      ],
+      "diagnosis": "Urine tests (proteinuria, hematuria), blood tests (ANAs, complement levels), kidney biopsy",
+      "treatment": "Corticosteroids, immunosuppressants (e.g., cyclophosphamide, mycophenolate), hydroxychloroquine, ACE inhibitors",
+      "clinical_trials": [
+        "Trial of Belimumab in Lupus Nephritis (ClinicalTrials.gov)",
+        "Efficacy of Voclosporin in Lupus Nephritis (ClinicalTrials.gov)"
+      ],
+      "key_aspects": [
+        "Associated with Systemic Lupus Erythematosus",
+        "Immune complex deposition in kidneys",
+        "Requires aggressive immunosuppressive therapy",
+        "Regular monitoring for disease flare-ups and kidney function"
+      ]
+    }
+  ]
+}

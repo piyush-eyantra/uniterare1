@@ -1,0 +1,143 @@
+{
+  "patient_details": {
+    "name": "piyush",
+    "age": 30,
+    "gender": "male",
+    "symptoms": [
+      "Hematuria",
+      "Proteinuria",
+      "Edema",
+      "High blood pressure",
+      "Flank pain",
+      "Lower back pain",
+      "Fatigue",
+      "Changes in urine color",
+      "Uremia",
+      "Nausea",
+      "Vomiting",
+      "Loss of appetite"
+    ],
+    "duration": "2 years",
+    "family_history": "No",
+    "medications": "Yes, for some diseases like headache, joint pain",
+    "previous_diagnoses": "No",
+    "travel": "No",
+    "allergies": "No",
+    "other_conditions": "No"
+  },
+  "top_rare_diseases": [
+    {
+      "disease_name": "Alport Syndrome",
+      "score": 0.85,
+      "description": "A genetic disorder affecting the type IV collagen in kidneys, ears, and eyes.",
+      "overview": "Alport Syndrome is a rare genetic disorder characterized by kidney inflammation (nephritis), leading to chronic kidney disease. It often affects hearing and vision.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Fatigue",
+        "Changes in urine color",
+        "Uremia",
+        "Nausea",
+        "Vomiting",
+        "Loss of appetite"
+      ],
+      "clinical_significance": "Progressive kidney disease leading to end-stage renal failure.",
+      "causes": "Mutations in COL4A3, COL4A4, or COL4A5 genes.",
+      "related_disorders": [
+        "IgA Nephropathy",
+        "Nephrotic Syndrome",
+        "Goodpasture Syndrome",
+        "Membranous Nephropathy"
+      ],
+      "diagnosis": "Urine tests, blood tests, kidney biopsy, genetic testing.",
+      "treatment": "ACE inhibitors, ARBs, immunosuppressants; dialysis or kidney transplant in advanced cases.",
+      "clinical_trials": [
+        "Study of COL4A3/COL4A4 Gene Therapy",
+        "Evaluation of ACE Inhibitor Therapy Efficacy"
+      ],
+      "key_aspects": [
+        "Progressive renal disease",
+        "Hearing and vision impairment",
+        "Genetic testing for family screening"
+      ]
+    },
+    {
+      "disease_name": "IgA Nephropathy",
+      "score": 0.88,
+      "description": "An autoimmune kidney disease causing inflammation.",
+      "overview": "IgA Nephropathy is an autoimmune disease where IgA antibodies lodge in kidneys, causing inflammation and damage.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Fatigue",
+        "Changes in urine color",
+        "Uremia",
+        "Nausea",
+        "Vomiting",
+        "Loss of appetite"
+      ],
+      "clinical_significance": "Can lead to chronic kidney disease and failure if untreated.",
+      "causes": "Abnormal IgA antibodies depositing in kidneys.",
+      "related_disorders": [
+        "Alport Syndrome",
+        "Nephrotic Syndrome",
+        "Goodpasture Syndrome",
+        "Membranous Nephropathy"
+      ],
+      "diagnosis": "Urine tests, blood tests, kidney biopsy.",
+      "treatment": "ACE inhibitors, ARBs, corticosteroids, fish oil; immunosuppressants in severe cases; dialysis or transplant.",
+      "clinical_trials": [
+        "Study of IgA Nephropathy Biomarkers",
+        "Efficacy of Corticosteroid Therapy"
+      ],
+      "key_aspects": [
+        "Autoimmune nature",
+        "Variable progression",
+        "Recurrence post-transplant"
+      ]
+    },
+    {
+      "disease_name": "Nephrotic Syndrome",
+      "score": 0.82,
+      "description": "Characterized by excessive protein loss through urine.",
+      "overview": "Nephrotic Syndrome is a kidney disorder marked by heavy proteinuria, leading to hypoalbuminemia and edema.",
+      "signs_symptoms": [
+        "Edema",
+        "Proteinuria",
+        "Changes in urine color",
+        "High blood pressure",
+        "Hematuria",
+        "Nausea",
+        "Vomiting",
+        "Loss of appetite"
+      ],
+      "clinical_significance": "Increased risk of infections and thrombosis.",
+      "causes": "Glomerular damage due to various diseases.",
+      "related_disorders": [
+        "Alport Syndrome",
+        "IgA Nephropathy",
+        "Goodpasture Syndrome",
+        "Membranous Nephropathy"
+      ],
+      "diagnosis": "Urine tests, blood tests, kidney biopsy.",
+      "treatment": "ACE inhibitors, ARBs, corticosteroids, immunosuppressants; diuretics for edema.",
+      "clinical_trials": [
+        "Study of Corticosteroid Response",
+        "Biomarker Identification in Nephrotic Syndrome"
+      ],
+      "key_aspects": [
+        "Proteinuria management",
+        "Edema control",
+        "Underlying disease treatment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "patient_details": {
+    "name": "piyush",
+    "age": 30,
+    "gender": "Male",
+    "symptoms": [
+      "Hematuria",
+      "Proteinuria",
+      "Edema",
+      "High blood pressure",
+      "Flank pain",
+      "Lower back pain",
+      "Fatigue",
+      "Changes in urine color",
+      "Uremia",
+      "Nausea",
+      "Vomiting",
+      "Loss of appetite"
+    ],
+    "duration": "2 years",
+    "family_history": "No",
+    "medications": "No",
+    "previous_diagnoses": "no",
+    "travel": "no",
+    "allergies": "no",
+    "other_conditions": "no"
+  },
+  "top_rare_diseases": [
+    {
+      "disease_name": "Chronic Kidney Disease (CKD)",
+      "score": 0.92,
+      "description": "A long-term condition where the kidneys gradually lose their function.",
+      "overview": "CKD is characterized by a gradual loss of kidney function over time, leading to complications like hypertension, edema, and uremia.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Flank pain",
+        "Lower back pain",
+        "Fatigue",
+        "Changes in urine color",
+        "Uremia",
+        "Nausea",
+        "Vomiting",
+        "Loss of appetite"
+      ],
+      "clinical_significance": "CKD can progress to end-stage renal disease, requiring dialysis or transplant.",
+      "causes": "Diabetes, hypertension, glomerulonephritis, polycystic kidney disease.",
+      "related_disorders": [
+        "Diabetic Nephropathy",
+        "Hypertensive Nephrosclerosis",
+        "Glomerulonephritis",
+        "Polycystic Kidney Disease"
+      ],
+      "diagnosis": "Urine tests, blood tests, imaging, kidney biopsy.",
+      "treatment": "Lifestyle modifications, medications (ACE inhibitors, ARBs), dialysis, transplant.",
+      "clinical_trials": [
+        "Investigation of Finerenone in CKD",
+        "Study of SGLT2 Inhibitors in CKD"
+      ],
+      "key_aspects": [
+        "Early detection",
+        "Management of comorbidities",
+        "Slowing disease progression"
+      ]
+    },
+    {
+      "disease_name": "Nephrotic Syndrome",
+      "score": 0.88,
+      "description": "A collection of symptoms due to kidney damage, particularly to the glomeruli.",
+      "overview": "Characterized by severe proteinuria, hypoalbuminemia, hyperlipidemia, and edema.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Changes in urine color",
+        "Loss of appetite",
+        "Nausea",
+        "Vomiting"
+      ],
+      "clinical_significance": "Increased risk of infections, thrombosis, and progression to CKD.",
+      "causes": "Minimal Change Disease, FSGS, membranous nephropathy, lupus nephritis.",
+      "related_disorders": [
+        "Minimal Change Disease",
+        "Focal Segmental Glomerulosclerosis (FSGS)",
+        "Membranous Nephropathy",
+        "Lupus Nephritis"
+      ],
+      "diagnosis": "Urine protein-to-creatinine ratio, blood tests, kidney biopsy.",
+      "treatment": "Immunosuppressants, ACE inhibitors, statins, diuretics.",
+      "clinical_trials": [
+        "Trial of Rituximab in Nephrotic Syndrome",
+        "Study of Sparsentan for FSGS"
+      ],
+      "key_aspects": [
+        "Identifying underlying cause",
+        "Immunosuppressive therapy",
+        "Managing complications"
+      ]
+    },
+    {
+      "disease_name": "Glomerulonephritis",
+      "score": 0.85,
+      "description": "Inflammation of the glomeruli, the filtering units of the kidneys.",
+      "overview": "Can be acute or chronic, leading to kidney dysfunction.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "High blood pressure",
+        "Edema",
+        "Flank pain",
+        "Lower back pain",
+        "Fatigue",
+        "Changes in urine color"
+      ],
+      "clinical_significance": "Can progress to CKD or end-stage renal disease.",
+      "causes": "Post-infectious, IgA nephropathy, lupus, vasculitis.",
+      "related_disorders": [
+        "IgA Nephropathy",
+        "Lupus Nephritis",
+        "Post-Streptococcal GN",
+        "Vasculitis"
+      ],
+      "diagnosis": "Urine analysis, blood tests, kidney biopsy.",
+      "treatment": "Depends on type; may include immunosuppressants, antibiotics.",
+      "clinical_trials": [
+        "Study of Azathioprine in IgA Nephropathy",
+        "Trial of IVIG for Infectious GN"
+      ],
+      "key_aspects": [
+        "Prompt treatment of infections",
+        "Immunosuppressive therapy",
+        "Monitoring kidney function"
+      ]
+    },
+    {
+      "disease_name": "Membranous Nephropathy",
+      "score": 0.82,
+      "description": "An autoimmune disease causing thickening of kidney glomeruli membranes.",
+      "overview": "Leading cause of nephrotic syndrome in adults, often idiopathic.",
+      "signs_symptoms": [
+        "Proteinuria",
+        "Edema",
+        "High blood pressure",
+        "Fatigue",
+        "Changes in urine color",
+        "Loss of appetite",
+        "Nausea",
+        "Vomiting"
+      ],
+      "clinical_significance": "Risk of progression to CKD and thrombotic events.",
+      "causes": "Autoimmune, infections, lupus, medications.",
+      "related_disorders": [
+        "Nephrotic Syndrome",
+        "Lupus Nephritis",
+        "FSGS",
+        "Diabetic Nephropathy"
+      ],
+      "diagnosis": "Urine analysis, blood tests, kidney biopsy.",
+      "treatment": "Immunosuppressants, anticoagulants, ACE inhibitors.",
+      "clinical_trials": [
+        "Trial of Tacrolimus in Membranous Nephropathy",
+        "Study of Adjuvant Therapy"
+      ],
+      "key_aspects": [
+        "Immunosuppressive therapy",
+        "Thrombosis prevention",
+        "Disease monitoring"
+      ]
+    },
+    {
+      "disease_name": "IgA Nephropathy (Berger's Disease)",
+      "score": 0.8,
+      "description": "Autoimmune disease causing IgA deposits in the kidneys.",
+      "overview": "Most common cause of kidney disease worldwide, often presenting with hematuria.",
+      "signs_symptoms": [
+        "Hematuria",
+        "Proteinuria",
+        "Flank pain",
+        "Lower back pain",
+        "Fatigue",
+        "Changes in urine color",
+        "Edema",
+        "High blood pressure"
+      ],
+      "clinical_significance": "Can progress to CKD and end-stage renal disease.",
+      "causes": "Genetic predisposition, environmental triggers, dysregulation of IgA.",
+      "related_disorders": [
+        "Henoch-Sch\u00f6nlein Purpura",
+        "Nephrotic Syndrome",
+        "Glomerulonephritis",
+        "FSGS"
+      ],
+      "diagnosis": "Urine analysis, blood tests, kidney biopsy.",
+      "treatment": "ACE inhibitors, immunosuppressants, fish oil.",
+      "clinical_trials": [
+        "Study of Leflunomide in IgA Nephropathy",
+        "Trial of Tocilizumab"
+      ],
+      "key_aspects": [
+        "Control of blood pressure",
+        "Immunosuppressive therapy",
+        "Symptom management"
+      ]
+    }
+  ]
+}
