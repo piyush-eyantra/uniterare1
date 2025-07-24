@@ -1,0 +1,26 @@
+.env
+__pycache__
+disease_search.log
+debug_search.html
+debug_comprehensive.html
+api_flow_test_app.log
+api_flow_test_app.py
+
+# Rare Diseases
+# nord_rare_disease_database_export.csv
+
+# FDA Drugs
+# Products.txt
+# Applications.txt
+Products_cleaned.txt
+Applications_cleaned.txt
+bad_rows.log
+ActionTypes_Lookup.txt
+ApplicationsDocsType_Lookup.txt
+MarketingStatus_Lookup.txt
+MarketingStatus.txt
+ApplicationDocs.txt
+SubmissionClass_Lookup.txt
+TE.txt
+Submissions.txt
+SubmissionPropertyType.txt.env

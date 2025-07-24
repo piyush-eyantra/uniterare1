@@ -1,4 +1,7 @@
-streamlit
-requests
+Flask
+psycopg2-binary
+python-dotenv
 groq
-python-dotenv 
+streamlit
+flask-cors
+requests
